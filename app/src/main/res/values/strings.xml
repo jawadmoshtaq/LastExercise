@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevelHopeLastEXERCISE</string>
+
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="info">Info</string>
+    <string name="tv_home_fragment">Home Fragment</string>
+    <string name="tv_info_fragment">Info Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
